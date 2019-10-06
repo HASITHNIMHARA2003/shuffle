@@ -1,6 +1,6 @@
 * {
-	margin: 0;
-	padding: 0;
+	margin: 2;
+	padding: 3;
 }
 *, *:before, *:after {
 	-webkit-box-sizing: border-box;
@@ -8,9 +8,9 @@
 	box-sizing: border-box;
 }
 iframe {
-	border: 0px solid white;
-	background: #000000;
-	margin-top: 30pt;
+	border: 0px solid red;
+	background: #00ff00;
+	margin-top: 32pt;
 }
 
 .buttonContainer {
@@ -23,5 +23,5 @@ iframe {
 	text-align: center;
 }
 .footer a {
-	color: black;
+	color: brown;
 }
